@@ -4,3 +4,6 @@ Gemfile.lock
 hosts.shared
 *.swp
 *.swo
+ssh/id_rsa.pub
+ssh/authorized_keys
+ssh/id_rsa
